@@ -103,7 +103,6 @@ To use this project, follow these steps:
 
 <br />
 
-🎥 **Project Demo Video:** [https://youtu.be/wFouWeK7NPg](https://youtu.be/wFouWeK7NPg)
 
 <br />
 
@@ -115,15 +114,7 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 **License**
 
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
+This project is licensed under the Apache License 2.0 License. Please review the LICENSE file for more details.
 
-<br />
 
-**Contact**
-
-📧 Email: gopiashokankiot@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
